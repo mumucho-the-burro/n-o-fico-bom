@@ -1,2 +1,2 @@
-# site-figma
-criamos um site usando o figma e o html 
+# não fico bom
+site criado usando html e scc
